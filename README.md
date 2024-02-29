@@ -7,7 +7,7 @@ passionate about cybersecurity, when I have time I do ctf to learn new things.
 
 ## 🛠 What I do and what I use
 
-### 📖 Actually learning :
+### 📖 Currently learning :
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
