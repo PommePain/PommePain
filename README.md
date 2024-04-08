@@ -1,7 +1,9 @@
-# Hi, I'm L4p1s! 👋
+## Hi, I'm L4p1s! 👋
 
-I'm a young computer science student practicing mainly web development and 
-passionate about cybersecurity, when I have time I do ctf to learn new things.
+I'm a young computer science student, mainly involved in web and software development, with a passion for cybersecurity. 
+When I have time, I train and learn new things by doing CTFs via Root-me or Tryhackme.
+
+I also enjoy climbing :) 
 
 <img width="40%" src="https://i.pinimg.com/564x/61/b5/fd/61b5fd9ccc338daddd3a05fa3e07ab16.jpg">
 
@@ -10,9 +12,9 @@ passionate about cybersecurity, when I have time I do ctf to learn new things.
 ### 📖 Currently learning :
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Web development (Front/Back-end) & API
+### Web development (Front/Back-end & Api)
 
 ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,6 +33,7 @@ passionate about cybersecurity, when I have time I do ctf to learn new things.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
