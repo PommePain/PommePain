@@ -7,6 +7,8 @@ I also enjoy climbing :)
 
 <img width="40%" src="https://i.pinimg.com/564x/61/b5/fd/61b5fd9ccc338daddd3a05fa3e07ab16.jpg">
 
+[![wakatime](https://wakatime.com/badge/user/80763337-262f-4f5c-a227-c47814875d46.svg)](https://wakatime.com/@80763337-262f-4f5c-a227-c47814875d46)
+
 ## 🛠 What I do and what I use
 
 ### 📖 Currently learning :
@@ -36,6 +38,6 @@ I also enjoy climbing :)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="44%" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xVanilla&layout=compact&theme=dracula">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">-->
+<!--<img width="44%" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xVanilla&layout=compact&theme=dracula">-->
 </a>
