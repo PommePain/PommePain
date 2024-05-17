@@ -8,6 +8,7 @@ I also enjoy climbing :)
 <img width="40%" src="https://i.pinimg.com/564x/61/b5/fd/61b5fd9ccc338daddd3a05fa3e07ab16.jpg">
 
 [![wakatime](https://wakatime.com/badge/user/80763337-262f-4f5c-a227-c47814875d46.svg)](https://wakatime.com/@80763337-262f-4f5c-a227-c47814875d46)
+![codewars](https://www.codewars.com/users/R%2Fm16/badges/micro)
 
 ## 🛠 What I do and what I use
 
