@@ -5,8 +5,7 @@ When I have time, I train and learn new things by doing CTFs via Root-me or Tryh
 
 I also enjoy climbing :) 
 
-<img width="40%" src="https://i.pinimg.com/564x/61/b5/fd/61b5fd9ccc338daddd3a05fa3e07ab16.jpg">
-
+![profile_views](https://komarev.com/ghpvc/?username=PommePain&label=Visitors)
 [![wakatime](https://wakatime.com/badge/user/80763337-262f-4f5c-a227-c47814875d46.svg)](https://wakatime.com/@80763337-262f-4f5c-a227-c47814875d46)
 ![codewars](https://www.codewars.com/users/R%2Fm16/badges/micro)
 
